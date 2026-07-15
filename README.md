@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Syedaa Zunaira – Full-Stack Software Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=200&section=header&text=Syedaa%20Zunaira&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%F0%9F%91%8B+Hey+there!+I'm+Syedaa+Zunaira;%E2%9A%A1+Full-Stack+Engineer+%7C+Cloud+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Building+scalable+web+apps+with+modern+tech" />
 </p>
 
 ---
@@ -37,8 +37,8 @@ const syedaaZunaira = {
 ## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery&theme=dark&perline=8" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,java,python,redis&theme=dark&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery&theme=dark&perline=8" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,java,python,redis&theme=dark&perline=8" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,aws,git,github,githubactions&theme=dark&perline=8" />
 </p>
 
@@ -86,5 +86,5 @@ const syedaaZunaira = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=100&section=footer" width="100%" />
 </p>
