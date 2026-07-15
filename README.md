@@ -65,26 +65,6 @@ const syedaaZunaira = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedaaZunaira/SyedaaZunaira/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedaaZunaira/SyedaaZunaira/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SyedaaZunaira/SyedaaZunaira/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedaaZunaira&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=100&section=footer" width="100%" />
 </p>
